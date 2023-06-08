@@ -1,2 +1,6 @@
 # Sorting-comparison
-Comparison of sorting algorithms in Java
+Implementation and comparison of sorting algorithms in Java
+- HeapSort
+- InsertionSort
+- QuickSort
+- SelectionSort
